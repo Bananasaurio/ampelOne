@@ -38,7 +38,7 @@ void loop() {
 }
 
 
-// test test test main
-
+// Set-Location H:
+// cd '.\Eigene Dateien\LF7\Arduino\ampelOne\'
 
 
